@@ -1,2 +1,3 @@
-# prime-weather-app-tgnr
-Automated issue comment bot repository
+# Prime Weather App Tgnr
+
+Automated issue comment bot repository.
